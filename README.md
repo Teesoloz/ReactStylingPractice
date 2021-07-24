@@ -1,2 +1,2 @@
-# ReactStylingPractice
+# ReactTutorial
 Created with CodeSandbox
